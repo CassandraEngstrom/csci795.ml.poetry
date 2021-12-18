@@ -1,6 +1,6 @@
 # Insights from machine classification, clustering, and generation of poetry 
 Seminar in Machine Learning CSCI 795 - Fall 2021 - Hunter College 
-Professor Anita Raja
+/Professor Anita Raja
 
 Written in Python3/numpy/pandas/scikit-learn
 
