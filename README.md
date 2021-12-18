@@ -6,6 +6,8 @@ Written in Python3/numpy/pandas/scikit-learn
 ## DATASET: 
 poems.csv 
 
+## All files as jupyter notebooks
+
 ## FILE 1: Engstrom.Poetry_Classification_Clustering_NetworkVisualization
 
 * Part one: vectorization of poetry samples 
